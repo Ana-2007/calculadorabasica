@@ -14,8 +14,8 @@ body {
     padding: 10px;
   }
   .number {
-    background-color: #530548; /* Cor de fundo rosa */
-    color: hsl(268, 57%, 52%); /* Cor do texto preta */
+    background-color: hsl(308, 89%, 17%); /* Cor de fundo rosa */
+    color: hwb(268 25% 21%); /* Cor do texto preta */
   }
   #display {
     width: 100%;
