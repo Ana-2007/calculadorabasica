@@ -15,7 +15,7 @@ body {
   }
   .number {
     background-color: hsl(308, 93%, 24%); /* Cor de fundo rosa */
-    color: hwb(268 25% 21%); /* Cor do texto preta */
+    color: rgb(128, 64, 201); /* Cor do texto preta */
   }
   #display {
     width: 100%;
