@@ -8,7 +8,7 @@ body {
     background-color: hwb(337 4% 12%);
     }  
   .calculator {
-    border: 1px solid hsl(330, 88%, 23%);
+    border: 1px solid darkblue hsl(330, 88%, 23%);
     width: 500px;
     text-align: center;
     padding: 10px;
