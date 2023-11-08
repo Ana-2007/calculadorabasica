@@ -5,10 +5,10 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hsl(308, 93%, 24%)
+    background-color: hsl(308, 93%, 24%) 
     }  
   .calculator {
-    border: 1px solid darkblue hsl(330, 88%, 23%);
+    border: 1px hotpink
     width: 500px;
     text-align: center;
     padding: 10px;
