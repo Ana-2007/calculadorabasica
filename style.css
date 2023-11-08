@@ -8,8 +8,8 @@ body {
     background-color: hsl(308, 93%, 24%) 
     }  
   .calculator {
-    border: 1px hotpink
-    width: 500px;
+    border: 4px hotpink
+    width: 300px;
     text-align: center;
     padding: 10px;
   }
@@ -18,7 +18,7 @@ body {
     color: rgb(128, 64, 201); /* Cor do texto preta */
   }
   #display {
-    width: 100%;
+    width: 200%;
     padding: 5px;
     font-size: 20px;
   }
@@ -29,6 +29,6 @@ body {
   }
     button {
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
     cursor: pointer;
   }
